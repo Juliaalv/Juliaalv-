@@ -15,7 +15,7 @@ Tenho experiência prática em projetos que envolvem:
 - 📈 **Previsão e Interpolação de Dados** para modelagem preditiva e otimização de processos  
 - 🌍 **Geoprocessamento & Informações Georreferenciadas**, integrando dados espaciais em sistemas interativos  
 - 💻 Desenvolvimento **Web FullStack**, com aplicações dinâmicas e conectadas a bancos de dados inteligentes  
-- ⚙️ Projetos com foco em **eficiência energética**, **microclimas urbanos** e **controle de processos**
+
 
 ---
 
