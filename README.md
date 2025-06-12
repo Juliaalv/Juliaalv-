@@ -19,8 +19,6 @@ Tenho experiência prática em projetos que envolvem:
 
 ---
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
